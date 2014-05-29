@@ -5,7 +5,5 @@
 	"author": "Nate Strauser",
 	"version": "1.5.1",
 	"git": "https://github.com/nate-strauser/meteor-x-editable-bootstrap.git",
-  "packages": {
-    "bootstrap-3": {}
-  }
+  "packages": {}
 }
